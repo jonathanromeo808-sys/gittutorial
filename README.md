@@ -1,3 +1,4 @@
-Honestly, it was weird at first but we were able to do all mergings and editing 
-We created a file that printed the first and last name, then converted it into a code that prints the first and last name repeatedly 
+Honestly, it was weird at first, but we were able to do all mergings and editing 
 colaborator: Tyrese Lovell
+Initial setup and branching using a text editor 
+Committing changes, Collaboration and remote push, and pulled request confirmation
